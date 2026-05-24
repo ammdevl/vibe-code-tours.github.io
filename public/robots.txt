@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://code-caravan.github.io/code-caravan-site/sitemap-index.xml
+Sitemap: https://vibe-tour.github.io/vibe-tour-site/sitemap-index.xml

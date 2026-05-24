@@ -1,11 +1,11 @@
-# Design notes — Code Caravan
+# Design notes — Vibe Tour
 
 Typography-driven, mobile-first, neutral grayscale + one warm accent. No stock
 photography. WCAG AA contrast. Lighthouse-friendly (no heavy client JS).
 
 ## Accent color: warm amber / gold
 
-**Why:** the brand is "Code Caravan" — a journey across the AI coding landscape.
+**Why:** the brand is "Vibe Tour" — a journey across the AI coding landscape.
 Amber/gold evokes the caravan + golden-land motif and reads warm and welcoming
 rather than corporate-cold or hype-blue. It also pairs cleanly with a neutral
 gray UI.

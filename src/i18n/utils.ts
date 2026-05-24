@@ -14,7 +14,7 @@ export function t(locale: Locale): typeof en {
 
 /** Detect the active locale from a URL pathname (handles base path). */
 export function getLocale(pathname: string): Locale {
-  // Strip the configured base so /code-caravan-site/my/... resolves correctly.
+  // Strip the configured base so /vibe-tour-site/my/... resolves correctly.
   const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   let path = pathname;
   if (base && path.startsWith(base)) path = path.slice(base.length);
@@ -23,8 +23,8 @@ export function getLocale(pathname: string): Locale {
 
 /**
  * Build a locale-aware, base-prefixed URL.
- * localizedPath('/about', 'my') -> '/code-caravan-site/my/about'
- * localizedPath('/about', 'en') -> '/code-caravan-site/about'
+ * localizedPath('/about', 'my') -> '/vibe-tour-site/my/about'
+ * localizedPath('/about', 'en') -> '/vibe-tour-site/about'
  */
 export function localizedPath(path: string, locale: Locale): string {
   const base = import.meta.env.BASE_URL.replace(/\/$/, '');

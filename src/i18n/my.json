@@ -5,7 +5,7 @@
     "altLangLabel": "EN"
   },
   "brand": {
-    "name": "[MY] Code Caravan",
+    "name": "[MY] Vibe Tour",
     "tagline": "[MY] A guided journey into AI-paired coding"
   },
   "nav": {
@@ -19,7 +19,7 @@
     "contact": "[MY] Contact"
   },
   "footer": {
-    "rights": "[MY] © 2026 Code Caravan",
+    "rights": "[MY] © 2026 Vibe Tour",
     "terms": "[MY] Terms",
     "coc": "[MY] Code of Conduct",
     "privacy": "[MY] Privacy",
@@ -27,7 +27,7 @@
     "license": "[MY] Curriculum: CC-BY-SA 4.0 · Code: MIT · Logo + visuals: CC-BY-SA 4.0"
   },
   "home": {
-    "title": "[MY] Code Caravan — A guided journey into AI-paired coding",
+    "title": "[MY] Vibe Tour — A guided journey into AI-paired coding",
     "description": "[MY] A cohort-based online tour of the AI coding ecosystem, designed for Myanmar developers ready to build with Claude Code. 8 weeks. 9 students. Free.",
     "heroTitle": "[MY] AI & Vibe Coding Tour",
     "heroStat": "[MY] 8 weeks. 9 students. Free.",
@@ -43,8 +43,8 @@
     "credibility": "[MY] Free to participants · Sponsored by [list] · MIT / CC-BY-SA licensed curriculum"
   },
   "about": {
-    "title": "[MY] About — Code Caravan",
-    "description": "[MY] Why Code Caravan exists: a curated entry into the AI coding ecosystem for Myanmar developers, built on awareness over mastery and honesty about what we skip.",
+    "title": "[MY] About — Vibe Tour",
+    "description": "[MY] Why Vibe Tour exists: a curated entry into the AI coding ecosystem for Myanmar developers, built on awareness over mastery and honesty about what we skip.",
     "heading": "[MY] Why this Tour exists",
     "intro1": "[MY] Most coding courses teach one stack. Most AI tutorials teach one tool. Neither helps a developer in 2026, when the landscape changes monthly and the meta-skill is \"navigate change.\"",
     "intro2": "[MY] We started this Tour for a specific group: Myanmar developers who can follow a terminal, want to build, and need a curated entry into the AI coding ecosystem without paying $1000 for a bootcamp that teaches yesterday's tools.",
@@ -81,8 +81,8 @@
     ]
   },
   "team": {
-    "title": "[MY] Team — Code Caravan",
-    "description": "[MY] Who runs Code Caravan: the lead instructor, advisors, and how to help.",
+    "title": "[MY] Team — Vibe Tour",
+    "description": "[MY] Who runs Vibe Tour: the lead instructor, advisors, and how to help.",
     "heading": "[MY] Who runs this",
     "leadHeading": "[MY] Lead instructor",
     "photoAlt": "[MY] Instructor photo placeholder",
@@ -96,14 +96,14 @@
     "xHandle": "@your-handle",
     "xUrl": "https://x.com/your-handle",
     "emailLabel": "[MY] Email",
-    "email": "tour@codecaravan.dev",
+    "email": "tour@vibetour.dev",
     "advisorsHeading": "[MY] Advisors",
     "advisorsBody": "[MY] (Optional — list mentors, technical advisors, past students serving as TAs.)",
     "helpHeading": "[MY] Want to help?",
     "helpBody": "[MY] We accept contributions of feedback, sponsorship, and time. See the sponsors page for how to contribute."
   },
   "curriculum": {
-    "title": "[MY] Curriculum — Code Caravan",
+    "title": "[MY] Curriculum — Vibe Tour",
     "description": "[MY] 8 chapters over 8 weeks. AI-paired coding from setup to demo day, structured by the A/B/C tier framework.",
     "heading": "[MY] What you'll learn",
     "intro": "[MY] 8 chapters over 8 weeks. 2 sessions × 2 hours per chapter. Plus async pre-class setup (Chapter 0). Cohort runs 16 live sessions across the 8-week arc.",
@@ -135,7 +135,7 @@
     ]
   },
   "apply": {
-    "title": "[MY] Apply — Code Caravan",
+    "title": "[MY] Apply — Vibe Tour",
     "description": "[MY] Cohort 1 applications closed with 298 registrants; 9 students selected. Join the announcement list for the next cohort.",
     "heading": "[MY] Applications closed",
     "closedBody": "[MY] Cohort 1 applications closed on 2026-XX-XX with 298 registrants. 9 students were selected.",
@@ -143,7 +143,7 @@
     "notifyHeading": "[MY] To be notified",
     "notifyList": [
       "[MY] Watch this site",
-      "[MY] Or email tour@codecaravan.dev to join the announcement list"
+      "[MY] Or email tour@vibetour.dev to join the announcement list"
     ],
     "lookHeading": "[MY] What we look for",
     "lookIntro": "[MY] (Same scoring criteria we used. Transparency builds trust.)",
@@ -157,8 +157,8 @@
     ]
   },
   "sponsors": {
-    "title": "[MY] Sponsors — Code Caravan",
-    "description": "[MY] The Tour is free to students. That requires sponsorship. How organizations and individuals can support Code Caravan.",
+    "title": "[MY] Sponsors — Vibe Tour",
+    "description": "[MY] The Tour is free to students. That requires sponsorship. How organizations and individuals can support Vibe Tour.",
     "heading": "[MY] Sponsors + supporters",
     "intro": "[MY] The Tour is free to students. That requires sponsorship.",
     "cohort1Heading": "[MY] Cohort 1 sponsors",
@@ -176,7 +176,7 @@
       "[MY] Cash for student equipment grants (laptops for students who lack one)",
       "[MY] Office hours from senior engineers (1 hr/week)"
     ],
-    "orgContact": "[MY] Contact: tour@codecaravan.dev with subject \"Sponsor inquiry\".",
+    "orgContact": "[MY] Contact: tour@vibetour.dev with subject \"Sponsor inquiry\".",
     "indHeading": "[MY] For individuals",
     "indIntro": "[MY] If you want to back the Tour at smaller scale:",
     "indList": [
@@ -194,8 +194,8 @@
     "noSell": "[MY] We do NOT sell sponsor access to student data. Ever."
   },
   "faq": {
-    "title": "[MY] FAQ — Code Caravan",
-    "description": "[MY] Frequently asked questions about Code Caravan: is it free, certificates, time commitment, joining from abroad, and more.",
+    "title": "[MY] FAQ — Vibe Tour",
+    "description": "[MY] Frequently asked questions about Vibe Tour: is it free, certificates, time commitment, joining from abroad, and more.",
     "heading": "[MY] Frequently asked questions",
     "items": [
       {
@@ -248,42 +248,42 @@
       },
       {
         "q": "[MY] I have a question not answered here.",
-        "a": "[MY] Email tour@codecaravan.dev."
+        "a": "[MY] Email tour@vibetour.dev."
       }
     ]
   },
   "contact": {
-    "title": "[MY] Contact — Code Caravan",
-    "description": "[MY] How to reach Code Caravan: applicant questions, sponsorship, privacy requests, and Code of Conduct reports.",
+    "title": "[MY] Contact — Vibe Tour",
+    "description": "[MY] How to reach Vibe Tour: applicant questions, sponsorship, privacy requests, and Code of Conduct reports.",
     "heading": "[MY] Contact",
     "applicants": "[MY] For applicants + general questions",
-    "applicantsEmail": "tour@codecaravan.dev",
+    "applicantsEmail": "tour@vibetour.dev",
     "sponsorship": "[MY] For sponsorship",
-    "sponsorshipEmail": "tour@codecaravan.dev",
+    "sponsorshipEmail": "tour@vibetour.dev",
     "sponsorshipNote": "[MY] with subject \"Sponsor inquiry\"",
     "privacy": "[MY] For privacy / data requests",
-    "privacyEmail": "privacy@codecaravan.dev",
+    "privacyEmail": "privacy@vibetour.dev",
     "coc": "[MY] For Code of Conduct reports",
-    "cocEmail": "conduct@codecaravan.dev",
+    "cocEmail": "conduct@vibetour.dev",
     "channelsHeading": "[MY] Public channels",
     "github": "[MY] GitHub",
-    "githubUrl": "https://github.com/code-caravan",
-    "githubLabel": "github.com/code-caravan",
+    "githubUrl": "https://github.com/vibe-tour",
+    "githubLabel": "github.com/vibe-tour",
     "x": "[MY] X / Twitter",
     "xHandle": "@your-handle",
     "xUrl": "https://x.com/your-handle",
-    "forwardNote": "[MY] (All @codecaravan.dev emails forward to the lead instructor.)"
+    "forwardNote": "[MY] (All @vibetour.dev emails forward to the lead instructor.)"
   },
   "terms": {
-    "title": "[MY] Terms & Conditions — Code Caravan",
-    "description": "[MY] Code Caravan Terms & Conditions v1.0.0: eligibility, conduct, intellectual property, disclaimers, and limitation of liability."
+    "title": "[MY] Terms & Conditions — Vibe Tour",
+    "description": "[MY] Vibe Tour Terms & Conditions v1.0.0: eligibility, conduct, intellectual property, disclaimers, and limitation of liability."
   },
   "coc": {
-    "title": "[MY] Code of Conduct — Code Caravan",
-    "description": "[MY] Code Caravan Code of Conduct, based on Contributor Covenant 2.1, with Myanmar-context additions on language, politics, and gender in tech."
+    "title": "[MY] Code of Conduct — Vibe Tour",
+    "description": "[MY] Vibe Tour Code of Conduct, based on Contributor Covenant 2.1, with Myanmar-context additions on language, politics, and gender in tech."
   },
   "privacy": {
-    "title": "[MY] Privacy Policy — Code Caravan",
-    "description": "[MY] Code Caravan Privacy Policy v1.0.0: what we collect, why, how long we keep it, who sees it, third parties, and your rights."
+    "title": "[MY] Privacy Policy — Vibe Tour",
+    "description": "[MY] Vibe Tour Privacy Policy v1.0.0: what we collect, why, how long we keep it, who sees it, third parties, and your rights."
   }
 }
