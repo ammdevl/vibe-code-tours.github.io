@@ -1,5 +1,5 @@
-# Deploys the Vibe Tour site to GitHub Pages.
-# READY but inactive until the `vibe-tour` GitHub org + repo exist and this
+# Deploys the Vibe Code Tours site to GitHub Pages.
+# READY but inactive until the `vibe-code-tours` GitHub org + repo exist and this
 # is pushed. In repo Settings -> Pages, set Source = "GitHub Actions".
 name: Deploy to GitHub Pages
 
