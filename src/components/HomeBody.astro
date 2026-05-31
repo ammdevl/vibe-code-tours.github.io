@@ -132,7 +132,7 @@ const stats = [
     {chapters.map((ch, i) => (
       <a href={localizedPath(`/curriculum/ch-${ch.num}`, locale)} class="reveal group rounded-xl border border-white/5 bg-surface-card p-5 no-underline transition-all duration-300 hover:border-accent-500/20 hover:-translate-y-0.5" style={`transition-delay: ${i * 60}ms`}>
         <div class="font-mono text-xs font-bold text-accent-500/70">CH {ch.num}</div>
-        <h4 class="mt-1 text-sm font-bold text-white">{ch.title}</h4>
+        <h3 class="mt-1 text-sm font-bold text-white">{ch.title}</h3>
         <p class="mt-1 text-xs text-gray-600">{ch.outcome}</p>
         <div class="mt-3 flex gap-1">
           {ch.tiers.map((tier) => (
