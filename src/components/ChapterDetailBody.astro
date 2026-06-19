@@ -33,6 +33,22 @@ const blocks =
 
   {
     chapter && (
+      <video
+        class="chapter-intro mt-5"
+        autoplay
+        muted
+        playsinline
+        preload="none"
+        poster={`/chapters/chapter-${num}.jpg`}
+        aria-label={`Chapter ${num} intro`}
+      >
+        <source src={`/chapters/chapter-${num}.mp4`} type="video/mp4" />
+      </video>
+    )
+  }
+
+  {
+    chapter && (
       <header class="mt-4">
         <div class="flex items-center gap-3">
           <span class="rounded-md bg-white/10 px-2.5 py-1 text-sm font-bold text-white">
@@ -108,3 +124,15 @@ const blocks =
     )
   }
 </section>
+
+<style>
+  .chapter-intro {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-radius: 0.75rem;
+    border: 1px solid rgb(255 255 255 / 0.1);
+    background: #000;
+  }
+</style>
