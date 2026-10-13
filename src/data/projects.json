@@ -666,37 +666,6 @@
     "team": 3
   },
   {
-    "github": "heinthaw-dev",
-    "name": "heinthaw-dev",
-    "title": "blood-help",
-    "desc": "Blood Help is a free app that instantly connects someone who urgently needs blood with nearby donors of the same blood type, built with ReactJS and Supabase",
-    "repo_url": "https://github.com/heinthaw-dev/blood-help",
-    "live_url": "https://blood-help-ten.vercel.app/",
-    "slides_raw": "https://raw.githubusercontent.com/heinthaw-dev/blood-help/main/slides/tech-stack.md",
-    "slides_base": "https://raw.githubusercontent.com/heinthaw-dev/blood-help/main/slides/",
-    "screenshot_url": "https://raw.githubusercontent.com/heinthaw-dev/blood-help/main/screenshots/01-phone-entry.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/heinthaw-dev/blood-help/main/screenshots/01-phone-entry.png",
-      "https://raw.githubusercontent.com/heinthaw-dev/blood-help/main/screenshots/14-leaderboard.png",
-      "https://raw.githubusercontent.com/heinthaw-dev/blood-help/main/screenshots/03-intent-choice.png",
-      "https://raw.githubusercontent.com/heinthaw-dev/blood-help/main/screenshots/05-donor-thankyou.png",
-      "https://raw.githubusercontent.com/heinthaw-dev/blood-help/main/screenshots/13-donor-congrats.png",
-      "https://raw.githubusercontent.com/heinthaw-dev/blood-help/main/screenshots/02-otp-verification.png",
-      "https://raw.githubusercontent.com/heinthaw-dev/blood-help/main/screenshots/04-donor-setup-filled.png",
-      "https://raw.githubusercontent.com/heinthaw-dev/blood-help/main/screenshots/11-requester-qr-scanner.png",
-      "https://raw.githubusercontent.com/heinthaw-dev/blood-help/main/screenshots/12-donor-profile-screen.png",
-      "https://raw.githubusercontent.com/heinthaw-dev/blood-help/main/screenshots/06-requester-form-filled.png"
-    ],
-    "type": "web-app",
-    "stack": [
-      "JavaScript",
-      "TypeScript",
-      "PLpgSQL"
-    ],
-    "chapter": 5,
-    "team": 9
-  },
-  {
     "github": "hlahtunthein09",
     "name": "hlahtunthein09",
     "title": "kill_the_laziness",
