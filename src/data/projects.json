@@ -289,20 +289,9 @@
     "live_url": "https://kilocarrier.com/",
     "slides_raw": "https://raw.githubusercontent.com/Billy1437/kilo_carrier/main/slides/pitch.md",
     "slides_base": "https://raw.githubusercontent.com/Billy1437/kilo_carrier/main/slides/",
-    "screenshot_url": "https://raw.githubusercontent.com/Billy1437/kilo_carrier/main/screenshots/post.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/Billy1437/kilo_carrier/main/screenshots/post.png",
-      "https://raw.githubusercontent.com/Billy1437/kilo_carrier/main/screenshots/login.png",
-      "https://raw.githubusercontent.com/Billy1437/kilo_carrier/main/screenshots/browse.png",
-      "https://raw.githubusercontent.com/Billy1437/kilo_carrier/main/screenshots/landing.png",
-      "https://raw.githubusercontent.com/Billy1437/kilo_carrier/main/screenshots/trip-detail.png",
-      "https://raw.githubusercontent.com/Billy1437/kilo_carrier/main/screenshots/login-mobile-390x844.png",
-      "https://raw.githubusercontent.com/Billy1437/kilo_carrier/main/screenshots/browse-mobile-390x844.png",
-      "https://raw.githubusercontent.com/Billy1437/kilo_carrier/main/screenshots/landing-mobile-390x844.png",
-      "https://raw.githubusercontent.com/Billy1437/kilo_carrier/main/screenshots/login-desktop-1280x800.png",
-      "https://raw.githubusercontent.com/Billy1437/kilo_carrier/main/screenshots/browse-desktop-1280x800.png"
-    ],
-    "type": "web-app",
+    "screenshot_url": null,
+    "screenshots": [],
+    "type": "other",
     "stack": [
       "TypeScript",
       "CSS",
