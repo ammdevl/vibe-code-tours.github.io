@@ -2553,34 +2553,6 @@
     "team": 13
   },
   {
-    "github": "yayyaylay1996",
-    "name": "yayyaylay1996",
-    "title": "DigitalSellingProduct-bot",
-    "desc": "A Telegram bot for selling digital products and managing orders automatically.",
-    "repo_url": "https://github.com/yayyaylay1996/DigitalSellingProduct-bot",
-    "live_url": "https://github.com/yayyaylay1996/DigitalSellingProduct-bot",
-    "slides_raw": "https://raw.githubusercontent.com/yayyaylay1996/DigitalSellingProduct-bot/main/slides/tech-stack.md",
-    "slides_base": "https://raw.githubusercontent.com/yayyaylay1996/DigitalSellingProduct-bot/main/slides/",
-    "screenshot_url": "https://raw.githubusercontent.com/yayyaylay1996/DigitalSellingProduct-bot/main/screenshots/1.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/yayyaylay1996/DigitalSellingProduct-bot/main/screenshots/1.png",
-      "https://raw.githubusercontent.com/yayyaylay1996/DigitalSellingProduct-bot/main/screenshots/2.png",
-      "https://raw.githubusercontent.com/yayyaylay1996/DigitalSellingProduct-bot/main/screenshots/3.png",
-      "https://raw.githubusercontent.com/yayyaylay1996/DigitalSellingProduct-bot/main/screenshots/4.png",
-      "https://raw.githubusercontent.com/yayyaylay1996/DigitalSellingProduct-bot/main/screenshots/5.png",
-      "https://raw.githubusercontent.com/yayyaylay1996/DigitalSellingProduct-bot/main/screenshots/7.png",
-      "https://raw.githubusercontent.com/yayyaylay1996/DigitalSellingProduct-bot/main/screenshots/9.png",
-      "https://raw.githubusercontent.com/yayyaylay1996/DigitalSellingProduct-bot/main/screenshots/10.png"
-    ],
-    "type": "bot",
-    "stack": [
-      "JavaScript",
-      "HTML"
-    ],
-    "chapter": 5,
-    "team": 14
-  },
-  {
     "github": "ye-lynn-htet",
     "name": "ye-lynn-htet",
     "title": "ylh-portfolio",
